@@ -36,46 +36,39 @@
 		<dc:subject id="subject-2">Africa, West--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2007100671</meta>
-		<meta property="schema:genre">TAG</meta>
-		<meta property="schema:abstract">ABSTRACT</meta>
+		<meta property="schema:genre">Fiction</meta>
+		<meta property="schema:abstract">Two English gentlemen journey to West Africa, staking their lives for a chance at a fortune which will change their futures, and forming a powerful bond which could be destroyed by a deception awaiting them in London.</meta>
 		<dc:description>
-			DESCRIPTION
+			&lt;p&gt;Jack Meredith is the scion of a respected family and the beau-ideal of London society; Guy Oscard has chosen to forsake that society for the lonely existence of a big game hunter. Each is now driven by love and pride to seek his fortune in West Africa, where they join a partnership to supply the world’s rarest medicine—a drug derived from the leaves of plant which grows only on a single plateau in the interior of one of the most inaccessible, dangerous places on Earth. These two resourceful men, different though they seem, are united by strength of character and a shared sense of honor and form a friendship which can survive any challenge posed by hostile tribesmen, relentless natural threat, disease and privation, but which may be destroyed by a secret awaiting them back at home.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;With Edged Tools&lt;/i&gt; in a sense made &lt;a href="https://standardebooks.org/ebooks/henry-seton-merriman"&gt;Henry Seton Merriman’s&lt;/a&gt; name as one of the Victorian Era’s leading novelists. He showed his ability to blend several genres—realism, romance, adventure, intrigue, social commentary—into a cohesive, fast-paced story which moved effortlessly from locale to locale and character to character. Unlike many contemporary novelists, Merriman was able to craft supporting characters and themes as memorable as his primary ones, and in &lt;i&gt;With Edged Tools&lt;/i&gt; he is able to highlight the tensions between the old class structures of England and its rising commercial class consciousness. Against that backdrop is played out a drama in which those embodying the old ways and those embracing the new all demonstrate that strength of character and sense of honor transcends any narrow sense of “class.”&lt;/p&gt;
 		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/8939</dc:source>
-		<dc:source>PAGE_SCANS_URL</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/007684328</dc:source>
 		<meta property="schema:wordCount">WORD_COUNT</meta>
 		<meta property="schema:educationalLevel">READING_EASE</meta>
-		<link href="EBOOK_WIKI_URL" rel="schema:sameAs"/>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/henry-seton-merriman_with-edged-tools" refines="#vcs-repository" rel="schema:codeRepository"/>
 		<dc:creator id="author">Henry Seton Merriman</dc:creator>
 		<meta property="file-as" refines="#author">Merriman, Henry Seton</meta>
-		<meta property="schema:alternateName" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
 		<link href="https://en.wikipedia.org/wiki/Henry_Seton_Merriman" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n90683469.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<link href="COVER_ARTIST_WIKI_URL" refines="#artist" rel="schema:sameAs"/>
-		<link href="COVER_ARTIST_NACOAF_URI" refines="#artist" rel="schema:sameAs"/>
+		<dc:contributor id="artist">Akseli Gallen-Kallela</dc:contributor>
+		<meta property="file-as" refines="#artist">Gallen-Kallela, Akseli</meta>
+		<link href="https://en.wikipedia.org/wiki/Akseli_Gallen-Kallela" refines="#artist" rel="schema:sameAs"/>
+		<link href="https://id.loc.gov/authorities/names/n79127990.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<link href="TRANSCRIBER_1_URL" refines="#transcriber-1" rel="schema:url"/>
+		<dc:contributor id="transcriber-1">Les Bowler</dc:contributor>
+		<meta property="file-as" refines="#transcriber-1">Bowler, Les</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<link href="TRANSCRIBER_2_URL" refines="#transcriber-2" rel="schema:url"/>
+		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
+		<link href="https://id.loc.gov/authorities/names/no2011017869.html" refines="#transcriber-2" rel="schema:sameAs"/>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
-		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
-		<link href="https://www.pgdp.net/" refines="#transcriber-3" rel="schema:url"/>
-		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<link href="PRODUCER_URL" refines="#producer-1" rel="schema:url"/>
+		<dc:contributor id="producer-1">Colin Samuels</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Samuels, Colin</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
